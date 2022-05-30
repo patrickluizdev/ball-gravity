@@ -2,4 +2,4 @@
 ## Este repositório tem como objetivo aprimorar as habilidades em Animações
 
 
-![Demonstrativo](https://raw.githubusercontent.com/patrickluizjf/ball-gravity/main/demonstrativo.png)
+![Demonstrativo]https://raw.githubusercontent.com/patrickluizdev/ball-gravity/main/demonstrativo.gif)
